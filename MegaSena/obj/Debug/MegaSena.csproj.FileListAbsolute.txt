@@ -1,0 +1,61 @@
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.frmPrincipal.resources
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.Properties.Resources.resources
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.GenerateResource.Cache
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+D:\Esamc\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.frmPrincipal.resources
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.Properties.Resources.resources
+C:\Users\201160132\Desktop\Apagar\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.GenerateResource.Cache
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.frmPrincipal.resources
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.Properties.Resources.resources
+C:\Users\201160132\Desktop\Jogo Mega Sena\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.GenerateResource.Cache
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.frmPrincipal.resources
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.Properties.Resources.resources
+C:\Users\Leandro Pablo\Desktop\Teste\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.GenerateResource.Cache
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.frmPrincipal.resources
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.Properties.Resources.resources
+C:\Users\201160102\Desktop\Jogo Mega Sena CERTO\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.GenerateResource.Cache
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+F:\Faculdade\3º Semestre\Introdução a Programação Orientada a Objetos\Trabalho Jogos (Completo)\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+E:\Esamc\Finalizado\Trabalho Jogos (Completo)\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+E:\Esamc\Finalizado\Trabalho Jogos (Completo)\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+E:\Esamc\Finalizado\Trabalho Jogos (Completo)\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\obj\Debug\MegaSena.frmPrincipal.resources
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\obj\Debug\MegaSena.Properties.Resources.resources
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.GenerateResource.cache
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+D:\Documentos\Projetos Programação\Visual Studio\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
